@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c099cead509f5619",
@@ -147,5 +147,7 @@
     }
   },
   "active": "f367a816b7c64ff4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "es/posts/Amor fati.md"
+  ]
 }
