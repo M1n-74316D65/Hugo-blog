@@ -3,7 +3,7 @@ title: "El amar no tiene un porque, solo tiene dos palabras. Te amo."
 date: 2023-01-20T20:03:39+01:00
 draft: true
 ---
-El dia 7 de enero de 2023 mi primera relacion llego a su fin.
+El día 7 de enero de 2023 mi primera relación llego a su fin después de 3 años.
 
 > Nunca digas “lo he perdido” si no “lo he devuelto”.
 <br>¿Ha muerto tu hijo?
@@ -21,6 +21,7 @@ Aceptar el dolor se podría decir que es satisfactorio. Abrazarlo y deja que ard
 ### Amar
 
 La frase *amar es para tontos* me produce risa y tristeza.
+
 - Risa porque que la vida sin amor, es triste, una vida sin la mayor fuerza que tiene el ser humano a su disposición no es vida.
 - Tristeza porque si existe es porque alguien lo cree.
 
@@ -31,6 +32,7 @@ La frase *amar es para tontos* me produce risa y tristeza.
 **No quiero.**
 
 Si yo, he llegado a amar a alguien, es por algún motivo. Y el hecho de que esa persona ya no sienta eso por mí **no tiene por qué afectar lo que yo siento**.
+
 - Te vas a sentir mal?
 <br>Sí, **muchísimo**.
 - Que pasa si dejó que vuelva con toda mi alma?
@@ -45,7 +47,7 @@ Si yo, he llegado a amar a alguien, es por algún motivo. Y el hecho de que esa 
 Empiezas a crear rencor, odio hacia esa persona u aceptas su traición con lo que ello conlleva.
 <br>Si te han traicionado, **solo tienes que tomar esa decisión**.
 
-#### Mi único consejo en esta situación es quiérete a ti mismo.
+#### Mi único consejo en esta situación es quiérete a ti mismo
 
 ### Pensamiento final
 
@@ -53,5 +55,5 @@ Independientemente de si habéis quedado como 'amigos' se ha terminado. Espero q
 
 **Amor fati, eterno retorno.**
 <br><br><br>
-### **Disfruta, aprende, vive.**
 
+### **Disfruta, aprende, vive.**
