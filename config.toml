@@ -31,7 +31,7 @@ DefaultContentLanguage = "es"
 
 [params]
 mainSections = ["posts"]
-headTitle = "M1n Bl0g"
+headTitle = "M1n-F1losof1a"
 [[params.socials]]
 name = "Github"
 link = "https://github.com/M1n-4d316e"
