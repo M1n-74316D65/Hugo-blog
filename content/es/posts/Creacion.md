@@ -10,7 +10,7 @@ La gente no parece entender como función, bien porque no lo comento mucho, bien
 <br>Y dijo Dios: Sea la luz; y fue la luz. Y vio Dios que la luz era buena; y separó Dios la luz de las tinieblas. Y llamó Dios a la luz Día, y a las tinieblas llamó Noche. Y fue la tarde y la mañana un día.
 <br>**Génesis 1-3**
 
-Después de leer por encima el blog de un amigo con el cual no converso lo suficiente y quiero mucho más de lo que se cree [@1noro](https://github.com/1noro), me veo en la necesidad de crear mi propio blog dado que **hablar al mundo y que nadie te responda tiene su belleza**.
+Después de leer por encima el [blog de un amigo](https://record.rat.la) con el cual no converso lo suficiente y quiero mucho más de lo que se cree [@1noro](https://github.com/1noro), me veo en la necesidad de crear mi propio blog dado que **hablar al mundo y que nadie te responda tiene su belleza**.
 
 
 ### Ausencia de una presentación
