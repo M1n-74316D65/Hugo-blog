@@ -1,0 +1,36 @@
+baseURL = 'http://example.org/'
+languageCode = 'es-es'
+title = 'M1n Bl0g'
+theme = "yinyang"
+DefaultContentLanguage = "es"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    guessSyntax = true
+    noClasses = true
+    style = "bw"
+    tabWidth = 2
+
+[author]
+  name = "David"
+  homepage = "https://github.com/M1n-4d316e"
+  
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
+  [languages.es]
+    contentDir = "content/es"
+    languageName = "Spanish"
+
+[params]
+mainSections = ["posts"]
+headTitle = "M1n Bl0g"
+[[params.socials]]
+name = "Github"
+link = "https://github.com/M1n-4d316e"
