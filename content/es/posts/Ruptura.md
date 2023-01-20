@@ -35,7 +35,7 @@ Si yo, he llegado a amar a alguien, es por algún motivo. Y el hecho de que esa 
 
 - Te vas a sentir mal?
 <br>Sí, **muchísimo**.
-- Que pasa si dejó que vuelva con toda mi alma?
+- Que pasa si deseó que vuelva con toda mi alma?
 <br>Nada, lo siento, pero no va a pasar nada. **Eso no depende de ti.**
 - Como puedo vivir sin ella?
 <br>Viviendo, tu felicidad no tiene que depender de nadie, generala. No te aísles, tu propia felicidad no solo depende de ti, tus amigos también te generan felicidad, pero **TU tienes que poder generar felicidad para ti mismo**.
