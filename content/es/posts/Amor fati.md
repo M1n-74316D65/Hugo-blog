@@ -5,6 +5,6 @@ draft: true
 menu: main
 ---
 
-> «Mi fórmula para expresar la grandeza en el hombre es amor fati: el **no-querer que nada sea distinto ni en el pasado ni en el futuro ni por toda la eternidad**. No solo soportar lo necesario, y aún menos disimularlo, sino amarlo.»
+> «Mi fórmula para expresar la grandeza en el hombre es amor fati: el **no-querer que nada sea distinto ni en el pasado ni en el futuro ni por toda la eternidad**. No solo soportar lo necesario, y aún menos disimularlo, sino amarlo.» <br>
 > **Ecce Homo** **– Friedrich Nietszche (1888)**.
 
