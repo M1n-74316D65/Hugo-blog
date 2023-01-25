@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/Amor fati.md",
-                "mode": "preview",
+                "file": "es/posts/Camino.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/Amor fati.md",
+                "file": "es/posts/Camino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/Amor fati.md",
+                "file": "es/posts/Camino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "es/posts/Amor fati.md"
+                "file": "es/posts/Camino.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b202b7bb47b2e714",
+  "active": "f367a816b7c64ff4",
   "lastOpenFiles": [
+    "Pasted image 20230125024148.png",
+    "Pasted image 20230125024043.png",
+    "es/posts/Camino.md",
     "es/posts/Amor fati.md"
   ]
 }

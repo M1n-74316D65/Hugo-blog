@@ -1,0 +1,16 @@
+body {
+  background-color: #3D2022;
+  color: whitesmoke;
+}
+
+a {
+  color: whitesmoke;
+}
+
+.header-line {
+  border-color: whitesmoke;
+}
+
+.markdown-body blockquote {
+  color: #2D203D;
+}

@@ -4,7 +4,6 @@ title = 'M1n-F1losof1a'
 theme = "yinyang"
 DefaultContentLanguage = "es"
 
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -28,7 +27,8 @@ DefaultContentLanguage = "es"
 [params]
 mainSections = ["posts"]
 headTitle = "M1n-F1losof1a"
-favicon = "/logo.webp"
+favicon = "/logo.png"
+# extraCSSFiles = ["css/background.css"]
 
 [[params.socials]]
 name = "Github"
