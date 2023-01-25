@@ -1,6 +1,6 @@
 baseURL = 'https://m1n-f1losof1a.netlify.app'
 languageCode = 'es-es'
-title = 'M1n-F1losof1a'
+title = 'F1losof1a'
 theme = "yinyang"
 DefaultContentLanguage = "es"
 
@@ -15,7 +15,7 @@ DefaultContentLanguage = "es"
     tabWidth = 2
 
 [author]
-  name = "David"
+  name = "M1n"
   homepage = "https://github.com/M1n-4d316e"
 
 [languages]
@@ -26,7 +26,7 @@ DefaultContentLanguage = "es"
 
 [params]
 mainSections = ["posts"]
-headTitle = "M1n-F1losof1a"
+headTitle = "F1losof1a"
 favicon = "/logo.png"
 # extraCSSFiles = ["css/background.css"]
 
