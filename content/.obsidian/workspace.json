@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/323a333220616d.md",
+                "file": "es/posts/Carretera.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/323a333220616d.md",
+                "file": "es/posts/Carretera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/323a333220616d.md",
+                "file": "es/posts/Carretera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "es/posts/323a333220616d.md"
+                "file": "es/posts/Carretera.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f367a816b7c64ff4",
+  "active": "b202b7bb47b2e714",
   "lastOpenFiles": [
     "img/round-noth-celets.png.md",
-    "es/posts/323a333220616d.md",
+    "es/posts/Carretera.md",
     "es/posts/Creacion.md",
     "es/posts/Amor fati.md",
     "Pasted image 20230125024148.png",
