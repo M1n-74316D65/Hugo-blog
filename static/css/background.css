@@ -14,3 +14,7 @@ a {
 .markdown-body blockquote {
   color: wheat;
 }
+
+p a:link {
+  border-bottom: 1px solid whitesmoke;
+}

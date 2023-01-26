@@ -1,6 +1,6 @@
 baseURL = 'https://m1n-f1losof1a.netlify.app'
 languageCode = 'es-es'
-title = 'F1losof1a'
+title = 'Spac3 by M1n'
 theme = "yinyang"
 DefaultContentLanguage = "es"
 
@@ -26,7 +26,7 @@ DefaultContentLanguage = "es"
 
 [params]
 mainSections = ["posts"]
-headTitle = "F1losof1a"
+headTitle = "Spac3 by M1n"
 favicon = "/logo.png"
 extraCSSFiles = ["css/background.css"]
 
