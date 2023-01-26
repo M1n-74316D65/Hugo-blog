@@ -10,7 +10,7 @@ draft: true
 >
 >**ChatGPT**
 
-## These are the two open source that I like
+## These are the two open source search engines that I like
 
 ### [SearXNG](https://search.ononoki.org/)
 
