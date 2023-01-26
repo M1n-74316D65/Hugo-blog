@@ -1,6 +1,6 @@
 ---
 title: "M1n x DALL·E x Open AI - 2:32 am"
-date: 2023-01-25T02:31:40-08:00
+date: 2023-01-25T02:31:40+01:00
 draft: true
 ---
 
