@@ -11,12 +11,8 @@
             "id": "f367a816b7c64ff4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "es/posts/en-open-search-engine.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/en-open-search-engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/en-open-search-engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "es/posts/en-open-search-engine.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,11 +140,11 @@
   },
   "active": "f367a816b7c64ff4",
   "lastOpenFiles": [
+    "es/posts/en-open-search-engine.md",
     "es/posts/Ruptura.md",
     "es/posts/Amor fati.md",
     "es/posts/Carretera.md",
     "es/posts/Creacion.md",
-    "es/posts/en-open-search-engine.md",
     "img/round-noth-celets.png.md",
     "Pasted image 20230125024148.png",
     "Pasted image 20230125024043.png"
