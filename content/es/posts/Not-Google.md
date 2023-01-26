@@ -3,6 +3,7 @@ title: "Not Google"
 date: 2023-01-25T22:07:00-08:00
 draft: true
 ---
+
 [@1noro](https://github.com/1noro), the open source guy who doesn't use an open source search engine.
 
 >How to balance the need for relevance and usefulness with the need for diversity and unbiased results.<br>How search engines shape our understanding and perception of the world, and the potential for them to reinforce existing biases and power structures.
