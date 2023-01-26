@@ -4,7 +4,7 @@ date: 2023-01-25T02:31:40-08:00
 draft: true
 ---
 
-### Una carretera solitaria, una cuesta abajo, un paisaje acogedor, un paisaje extraño.
+### Una carretera solitaria, una cuesta abajo, un paisaje acogedor, un paisaje extraño
 
 ![M1n x DALL·E](https://ik.imagekit.io/m1n/Blog/Nord-road.png?tr=w-1024)
 [**M1n x DALL·E**](https://labs.openai.com/s/sCRSKHhrh0NepGGKraUqe2cC)
@@ -17,8 +17,7 @@ draft: true
 
 <br><br>
 
-### Una carretera solitaria, una cuesta abajo, un paisaje acogedor, un paisaje del norte de Europa, un infinito celeste.
-
+### Una carretera solitaria, una cuesta abajo, un paisaje acogedor, un paisaje del norte de Europa, un infinito celeste
 
 ![M1n x DALL·E](/img/round-noth-celets.png?tr=w-1024)
 [**M1n x DALL·E**](https://labs.openai.com/s/q86dXD8wGiL2QZyvByrJ65gQ)
