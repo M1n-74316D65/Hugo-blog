@@ -2,7 +2,6 @@ baseURL = 'https://m1n-f1losof1a.netlify.app'
 languageCode = 'es-es'
 title = 'Spac3 by M1n'
 theme = "yinyang"
-DefaultContentLanguage = "es"
 
 [markup]
   [markup.goldmark]
@@ -17,12 +16,6 @@ DefaultContentLanguage = "es"
 [author]
   name = "M1n"
   homepage = "https://github.com/M1n-4d316e"
-
-[languages]
-  [languages.es]
-    contentDir = "content/es"
-    languageName = "Spanish"
-    weight = 1
 
 [params]
 mainSections = ["posts"]
