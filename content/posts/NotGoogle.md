@@ -1,6 +1,6 @@
 ---
 title: "Not Google"
-date: 2023-01-25T22:07:00-08:00
+date: 2023-01-25T22:07:00-08:00 +0100 CET
 draft: true
 ---
 
