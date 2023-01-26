@@ -28,7 +28,7 @@ DefaultContentLanguage = "es"
 mainSections = ["posts"]
 headTitle = "F1losof1a"
 favicon = "/logo.png"
-# extraCSSFiles = ["css/background.css"]
+extraCSSFiles = ["css/background.css"]
 
 [[params.socials]]
 name = "Github"
