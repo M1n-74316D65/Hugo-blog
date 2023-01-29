@@ -1,20 +1,30 @@
-body {
-  background-color: #17021A;
-  color: #E3E3E3;
+html {
+  -webkit-font-smoothing: antialiased;
+  background-color: #181a1b;
+  color: #abc0d0;
 }
 
 a {
-  color: #E3E3E3;
+  color: #abc0d0;
 }
 
 .header-line {
-  border-color: #E3E3E3;
+  border-color: #abc0d0;
 }
 
 .markdown-body blockquote {
-  color: #CBCCCD;
+  background-color: #222526;
+  color: #2f845e;
 }
 
 p a {
-  border-bottom: 1px solid #E3E3E3;
+  border-bottom: 1px solid #abc0d0;
+}
+
+::-moz-selection {
+  background-color: #67769660;
+}
+
+::selection {
+  background-color: #67769660;
 }
