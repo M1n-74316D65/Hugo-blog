@@ -32,6 +32,6 @@ Account based **freemium** search engine with no ads and integrations with other
 
 Account featured **AI** search engine with no ads, **mode for code**, integrations with other apps and a lot more useful features.
 
-## [Ecosia](https://www.ecosia.org/)
+### [Ecosia](https://www.ecosia.org/)
 
 Bing search engine but green with nice UI and they **plant trees**.
