@@ -1,0 +1,27 @@
+By Uxia
+
+-  ¿Por qué sentimos?
+-  ¿Qué cono? ¿Por qué?
+-  ¿Somos tan racionales como queremos pensar?
+-  ¿Qué es una raza?
+-  ¿Qué es una pregunta?
+-  ¿Cuántas experiencias hacen falta para crear una personalidad formada?
+-  ¿Por qué mato no ve bien los colores (las tonalidades de rojo)?
+-  ¿Realmente la soledad es tan mala?
+-  ¿Por qué-empatía-animales?
+-  ¿Cuántos hombres hacen falta para cambiar una bombilla?
+-  ¿Eres adicto a la tecnología?(que es ser adicto)
+	-  ¿Por qué hay tanta relación entre los traumas y los fetiches?
+-  ¿Por qué “tocaba” la existencia?
+-  ¿Por qué se te olvida hablar?
+-  ¿Cuántos hombres están detrás de Usía?
+-  ¿Qué pasaría si me muero mañana :)?
+-  Que tontos los dinosaurios!.
+-  ¡El idioma es de la gente, no de la RAE ostia!
+-  Que es una enfermedad mental  y que no.
+-  ¿Por qué el 90% de los hombres prefieren chupar un culo sucio a un pito?
+-  El sexo es importante en una relación hasta qué punto estarías dispuesto a aguantar mal sexo.
+-  Las hormonas son una mierda.
+-  ¿Qué vergas la intuición y porque Usía tiene tan buena intuición?
+-  ¿Para qué sirve el botón encima de la vagina? - Master class para Caneda
+-  ¿Culos, tetas, muslos, otros?

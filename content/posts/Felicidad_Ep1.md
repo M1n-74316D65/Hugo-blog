@@ -1,5 +1,5 @@
 ---
-title: "Felicidad // 1 - comprensión"
+title: "Felicidad // 1 - Comprensión"
 date: 2023-02-15T16:13:40+01:00
 draft: true
 ---
