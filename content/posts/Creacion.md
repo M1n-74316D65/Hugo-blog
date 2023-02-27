@@ -27,3 +27,9 @@ De media antepongo mi sentido de justicia.
 Bienvenido a mi blog, no me importan las faltas de ortografía, me importa controlar mínimamente el tiempo.
 
 **No te voy a dar un voto de confianza, ganátelo.**
+
+
+
+### POV
+
+![image-20230227032256099](https://raw.githubusercontent.com/M1n-4d316e/Hugo-blog/master/2023/02/upgit_20230227_1677464576.png)
