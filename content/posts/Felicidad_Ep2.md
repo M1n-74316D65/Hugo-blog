@@ -56,5 +56,3 @@ Simplemente **disfruta, aprende, vive.**
 <br><br>
 
 # Disfruta, aprende, vive.
-
-![2a3ce308-c3c0-4b1c-8292-0e077eda8b94](https://raw.githubusercontent.com/M1n-4d316e/Hugo-blog/master/2023/03/upgit_20230304_1677937724.png)
