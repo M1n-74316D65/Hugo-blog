@@ -3,7 +3,7 @@ title: "El amar no tiene un porque, solo tiene dos palabras. Te amo."
 date: 2023-01-20T20:03:39+01:00
 draft: true
 ---
-El día 7 de enero de 2023 mi primera relación llego a su fin después de 3 años.
+Vive tu.
 
 > Nunca digas “lo he perdido” si no “lo he devuelto”.
 <br>¿Ha muerto tu hijo?
