@@ -20,7 +20,7 @@ draft: true
 
 <img src="https://raw.githubusercontent.com/M1n-4d316e/Hugo-blog/master/2023/03/upgit_20230309_1678390939.jpg" alt="2023-03-09-19-46-22-456~2" style="zoom:50%;" />
 
- Como diría un romántico, no escapes de la lluvia, mójate y disfrútala por un solo día de tu existencia, intenta disfrutarla y veras lo inocente y agradable que es.
+ No escapes de la lluvia, mójate y disfrútala por un solo día de tu existencia, intenta disfrutarla y veras lo inocente y agradable que es.
 
 <img src="https://raw.githubusercontent.com/M1n-4d316e/Hugo-blog/master/2023/03/upgit_20230309_1678390956.jpg" alt="2023-03-09-19-45-22-286~2" style="zoom:50%;" />
 
