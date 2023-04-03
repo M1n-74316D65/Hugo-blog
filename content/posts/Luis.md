@@ -18,7 +18,7 @@ El protagonista, un ser con falta de ambición, con falta de vida, con falta de 
 
 ### La falta de un objetivo
 
-Desde el principio decidió no tener hijos, esta decisión le peso demasiado en sus últimos días, en sus últimos años, tanto, que lo intento por todos los medios. Varios desamores, varias amantes, varios intentos; después se vio solo y con el corazón roto, sin nada ni nadie que lo llenase y lo que más le afecto,  todo el tiempo del mundo (a estas alturas estaba prejubilado) para pensar.
+Desde el principio decidió no tener hijos, esta decisión le peso demasiado en sus últimos días, en sus últimos años, tanto, que lo intento por todos los medios. Varios desamores, varias amantes, varios intentos después se vio solo y con el corazón roto, sin nada ni nadie que lo llenase y lo que más le afecto,  todo el tiempo del mundo (a estas alturas estaba prejubilado) para pensar.
 
 Llegó a una conclusión, temida por mucho, valorada por toda una gran mayoría.
 
