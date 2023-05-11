@@ -21,7 +21,7 @@ theme = "yinyang"
 mainSections = ["posts"]
 headTitle = "Spac3 by M1n"
 favicon = "/logo.png"
-extraCSSFiles = ["css/background.css"]
+# extraCSSFiles = ["css/background.css"]
 
 [[params.socials]]
 name = "Github"
