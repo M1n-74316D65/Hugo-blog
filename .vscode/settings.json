@@ -1,3 +1,7 @@
 {
-  "conventionalCommits.scopes": ["New blog page", "colorsheme"]
+  "conventionalCommits.scopes": [
+    "New blog page",
+    "colorsheme",
+    "fonts"
+  ]
 }
