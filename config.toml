@@ -1,4 +1,4 @@
-baseURL = 'https://m1n-f1losof1a.netlify.app'
+baseURL = 'https://spac3.m1n.omg.lol'
 languageCode = 'es-es'
 title = 'Spac3 by M1n'
 theme = "yinyang"
@@ -15,7 +15,7 @@ theme = "yinyang"
 
 [author]
   name = "M1n"
-  homepage = "https://github.com/M1n-4d316e"
+  homepage = "https://m1n.omg.lol"
 
 [params]
 mainSections = ["posts"]
@@ -24,8 +24,8 @@ favicon = "/logo.png"
 # extraCSSFiles = ["css/background.css"]
 
 [[params.socials]]
-name = "Github"
-link = "https://github.com/M1n-4d316e"
+name = "M1n's Profile"
+link = "https://m1n.omg.lol"
 
 [[params.socials]]
 name = "RSS"
