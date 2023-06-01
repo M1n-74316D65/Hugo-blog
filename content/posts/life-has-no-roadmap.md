@@ -1,6 +1,6 @@
 ---
 title: "La ansiedad de no ver nada pero saber que va a haber algo."
-date: 2223-06-01T00:47:33+02:00
+date: 2023-06-01T00:47:33+02:00
 draft: true
 ---
 <center>Cuando miras al futuro, velado en bruma,<br>anhelas senderos que la vista no vislumbra.<br>Sueño despierto, duermo en silencio,<br>buscando en el horizonte un sueño eterno.<br><br></center>
