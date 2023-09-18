@@ -29,5 +29,9 @@ name = "M1n's Profile"
 link = "https://m1n.omg.lol"
 
 [[params.socials]]
+name = "Proofs"
+link = "https://proven.lol/da931b"
+
+[[params.socials]]
 name = "RSS"
 link = "/index.xml"
