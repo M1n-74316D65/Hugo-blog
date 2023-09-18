@@ -19,7 +19,7 @@ theme = "yinyang"
 
 [params]
 mainSections = ["posts"]
-headTitle = "Spac3 by M1n"
+headTitle = "provenda931b "
 favicon = "/logo.png"
 extraHead = '<script defer data-domain="spac3.m1n.omg.lol" src="https://stats.m1n.omg.lol/js/script.js"></script>'
 # extraCSSFiles = ["css/background.css"]
