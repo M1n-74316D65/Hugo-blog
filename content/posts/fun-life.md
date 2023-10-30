@@ -8,7 +8,9 @@ draft: true
 
 ![Chaos, peace, timeless.](https://cdn.some.pics/m1n/652b034c61394.jpg)
 
-## Busca el fallar
-
-
+> No somos castigados por nuestras heridas, sino por nuestras cicatrices.
+>
+> 
+>
+> **Friedrich Nietzsche**
 
