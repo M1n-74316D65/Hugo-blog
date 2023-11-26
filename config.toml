@@ -21,7 +21,9 @@ theme = "yinyang"
 mainSections = ["posts"]
 headTitle = "Spac3 by M1n"
 favicon = "/logo.png"
-extraHead = '<script defer data-domain="spac3.m1n.omg.lol" src="https://stats.m1n.omg.lol/js/script.js"></script>'
+extraHead = '<script defer data-domain="spac3.m1n.omg.lol"></script><script src="https://tinylytics.app/embed/XrQc-jjjMYkBXGckiKzM.js?hits" defer></script>'
+postFooterContent = "<br/><a href='https://tinylytics.app/public/g6pNq7Kk-Rg8zw6Mn4As'><p style='text-align: right;'>Visitant3s: <span class='tinylytics_hits'></span><p/></a>"
+
 # extraCSSFiles = ["css/background.css"]
 
 [[params.socials]]
